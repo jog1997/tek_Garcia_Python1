@@ -294,6 +294,7 @@ for key, value in country_capital_dict.items():
 # TODO: Create 5 lists of real life items and create 5 dictionaries. For example,
 # for list, I would create a list for list of chores I need to do on weekends. i.e chores = ['laundry', 'pick-up mail', 'clean the apt']
 # for dictionary, I would have friends to phone number. friends = {'jose': '718-233-6464', 'ali': '646-232-2323'}
+
 # 5 Lists of items
 Favorite_Food = ['Pizza', 'Hamburgers', 'Ice Cream', 'Tacos']
 print(Favorite_Food)
