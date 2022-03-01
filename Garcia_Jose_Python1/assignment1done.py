@@ -232,7 +232,17 @@ for index, fruit in enumerate(my_list):
 
 # TODO: Using a for loop update every item in the my_list list into dessert items
 # dessert = ["apple cake", "banana cake", "donut", "fudge", "ice cream", "jilapi"]
+#This is my 1st iteration to update the my_list. This is what I want my loop to do.
+for i in my_list:
+    my_list[0] = 'apple cake'
+    my_list[1] = 'banana cake'
+    my_list[2] = 'donut'
+    my_list[3] = 'fudge'
+    my_list[4] = 'ice cream'
+    my_list[5] = 'jilapi'
+print(my_list)
 
+print(test)
 
 print("-------------------- Dictionary ---------------------------------\n")
 # initialize dictionary
